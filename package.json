@@ -18,7 +18,7 @@
 		"@angular/http": "~4.1.0",
 		"@angular/platform-browser": "~4.1.0",
 		"@angular/router": "~4.1.0",
-		"nativescript-angular": "~3.1.0",
+		"nativescript-angular": "~8.21.0",
 		"nativescript-audio": "^3.5.0",
 		"nativescript-exit": "^1.0.1",
 		"nativescript-ezaudio": "^1.1.7",
